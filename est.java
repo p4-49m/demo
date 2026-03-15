@@ -6,5 +6,7 @@ public class est {
     System.out.print("Enter a double value: ");
     Scanner scanner = new Scanner(System.in);
     double d = scanner.nextDouble();
+    System.out.println("You entered: " + d);
+    }
 
 }
