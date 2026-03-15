@@ -18,8 +18,14 @@ public class est {
     // System.out.println("The value of b is: " + b);
     // System.out.println("The value of a is: " + a);
 
-    String s = "Chapter" + 2;
-    System.out.println(s);
+    // String s = "Chapter" + 2;
+    // System.out.println(s);
+
+    int quantity = 10;
+    double salesAmt = 250.80;
+    System.out.printf("Sales-> Qty: %d, Amt: RM%.2f\n", quantity, salesAmt);
+    //%s = string, %d = int, %f = floating, %c = char
+
 
 
 
