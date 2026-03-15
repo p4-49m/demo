@@ -8,10 +8,19 @@ public class est {
     // double d = scanner.nextDouble();
     // System.out.println("You entered: " + d);
 
-    char letter = '\u0041';
-    char numChar = '\u0034';
-    System.out.println("The letter is: " + letter);
-    System.out.println("The number character is: " + numChar);
+    // char letter = '\u0041';
+    // char numChar = '\u0034';
+    // System.out.println("The letter is: " + letter);
+    // System.out.println("The number character is: " + numChar);
+
+    boolean b = (1 > 2); // return false
+    boolean a = false;
+    System.out.println("The value of b is: " + b);
+    System.out.println("The value of a is: " + a);
+
+    
+
+
     }
 
 }
