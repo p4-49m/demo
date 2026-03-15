@@ -13,12 +13,14 @@ public class est {
     // System.out.println("The letter is: " + letter);
     // System.out.println("The number character is: " + numChar);
 
-    boolean b = (1 > 2); // return false
-    boolean a = false;
-    System.out.println("The value of b is: " + b);
-    System.out.println("The value of a is: " + a);
+    // boolean b = (1 > 2); // return false
+    // boolean a = false;
+    // System.out.println("The value of b is: " + b);
+    // System.out.println("The value of a is: " + a);
 
-    
+    String s = "Chapter" + 2;
+    System.out.println(s);
+
 
 
     }
